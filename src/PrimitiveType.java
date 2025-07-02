@@ -9,7 +9,7 @@ public class PrimitiveType {
 
         // 실수형
         float floatNum = 3.14f; // float은 f 접미사가 필요
-        double doubleNum = 3.141592; // float보다 더 정밀한 실
+        double doubleNum = 3.141592; // float보다 더 정밀한 실수
 
         // 문자형
         char grade = 'A'; // '' 작은따옴표 사용, 단 하나의 문자만
