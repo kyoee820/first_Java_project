@@ -1,3 +1,5 @@
+package JavaBasic;
+
 public class VariableExample {
 
     static final int MAX_VALUE = 100; // 상수 static final 키워드

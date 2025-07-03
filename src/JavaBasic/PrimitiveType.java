@@ -1,3 +1,5 @@
+package JavaBasic;
+
 public class PrimitiveType {
 
     public static void main(String[] args) {
