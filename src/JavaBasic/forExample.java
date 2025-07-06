@@ -76,7 +76,7 @@ public class forExample {
 //
 //            // 1부터 9까지 곱하기
 //            for (int i = 1; i <=9; i++) {
-//                System.out.println(dan + " x " + i + " = " + (dan * i));
+//                System.out.println( s (dan + " x " + i + " = " + (dan * i));
 //            }
 //        }
 
