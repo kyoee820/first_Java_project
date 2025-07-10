@@ -2,10 +2,10 @@
 // 사용자 정의 예외 클래스 (Unchecked Exception)
 public class InsufficientBalanceException extends RuntimeException {
 
-    public InsufficientBalanceException(String message) {
+    public InsufficientBalanceException(String message){
+
         super(message);
     }
-
 }
 
 // 은행 계좌 클래스
