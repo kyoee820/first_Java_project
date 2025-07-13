@@ -8,7 +8,6 @@ public class BufferedFileCopy {
     public static void main(String[] args) {
         File source = new File("test.txt");
         File target = new File ("test_copy.txt");   // 소스를 그대로 복사
-
         try {
             copyFile(source, target);     // 메소드 생성
             System.out.println("파일 복사가 완료되었습니다.");
@@ -54,6 +53,8 @@ public class BufferedFileCopy {
 
         public InvalidPathException(String path, String reason) {
             super(String.format("%s: %s", reason, path));   // InvalidPathException 생성
-        }
+
     }
 }
+}
+
