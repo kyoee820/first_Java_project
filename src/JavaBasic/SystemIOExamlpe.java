@@ -9,7 +9,7 @@ public class SystemIOExamlpe {
 
         // 1. System.out
         // print 줄바뀜 없이 출력
-//        int number = 10;
+//        int number = 10;e c
 //        String text = "자바";
 //        System.out.print(number);
 //        System.out.print(text);
